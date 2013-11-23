@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings>
+<configs currentConfig="Remote Connections~Maemo device (WLAN ad-hoc).1385191848826">
+<config executionEnvironment="org.maemo.mica.maemosdk.core.maemo" id="Remote Connections~Maemo device (WLAN ad-hoc).1385191848826" name="Maemo device (WLAN ad-hoc)" sdkDisplayName="Remote Connections" sdkName="Remote Connections" stockConfigurationId="" targetName="Maemo device (WLAN ad-hoc)">
+<metaData/>
+</config>
+</configs>
+</settings>
